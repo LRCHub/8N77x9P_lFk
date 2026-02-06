@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "GO TO THE FUTURE",
   "base_artist": "サカナクション",
-  "createdAt": "2025-12-20T05:02:44.471531Z",
+  "createdAt": "2026-02-06T21:19:45.438748Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,118 @@
       "artist": "Sakanaction",
       "has_synced": false,
       "path": "select/05_GO_TO_THE_FUTURE_(2006_ver.)_Sakanaction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Intro / Go to the Floor",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/06_Intro___Go_to_the_Floor_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If We Go to the West",
+      "artist": "Nina Nastasia",
+      "has_synced": false,
+      "path": "select/07_If_We_Go_to_the_West_Nina_Nastasia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flawless (Go to the City)",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/08_Flawless_(Go_to_the_City)_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Go to the Barn Because I Like The",
+      "artist": "Band of Horses",
+      "has_synced": true,
+      "path": "select/09_I_Go_to_the_Barn_Because_I_Like_The_Band_of_Horses.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody Really Cares If You Don't Go to the Party",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/10_Nobody_Really_Cares_If_You_Don't_Go_to_the_Party_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Go To The Zoo",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Scott Michael Foster",
+      "has_synced": true,
+      "path": "select/11_I_Go_To_The_Zoo_Crazy_Ex-Girlfriend_Cast_feat._Scott_Michael_Foster.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Go to the Show",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Go_to_the_Show_Poison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go to The Mo",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/13_Go_to_The_Mo_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All the Pretty Girls Go to the City",
+      "artist": "Spoon",
+      "has_synced": true,
+      "path": "select/14_All_the_Pretty_Girls_Go_to_the_City_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Want To Go To The Beach",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/15_I_Want_To_Go_To_The_Beach_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go To The Mirror!",
+      "artist": "The Who",
+      "has_synced": false,
+      "path": "select/16_Go_To_The_Mirror!_The_Who.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Go to the top",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/17_Go_to_the_top_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Go to the top",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/18_Go_to_the_top_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Wanna Go To The Sun",
+      "artist": "Peter Frampton",
+      "has_synced": true,
+      "path": "select/19_I_Wanna_Go_To_The_Sun_Peter_Frampton.lrc"
     },
     {
       "id": "petitlyrics_1",
